@@ -1,0 +1,12 @@
+{
+  "name": "quota",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "npx vitest run"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  },
+  "description": "A Godot extraction-survival game prototype built around noise, stealth, and quota objectives."
+}
